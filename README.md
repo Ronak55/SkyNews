@@ -8,7 +8,7 @@ the weather.
 
 ## 📱 Download & Test
 
-- **Android (APK):** [Download here]([https://expo.dev/artifacts/eas/fdmSJE8y8jb1wqrwBrig3h.apk])
+- **Android (APK):** [Download here](https://expo.dev/artifacts/eas/fdmSJE8y8jb1wqrwBrig3h.apk)
 ---
 
 ## 🛠️ Project Setup
