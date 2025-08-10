@@ -8,7 +8,7 @@ the weather.
 
 ## 📱 Download & Test
 
-- **Android (APK):** [Download here](https://expo.dev/artifacts/eas/fdmSJE8y8jb1wqrwBrig3h.apk)
+- **Android (APK):** [Download here](https://expo.dev/accounts/irohnyyy/projects/astro-journal/builds/d3ae6660-1fd3-4c5b-9446-59986d142d22)
 ---
 
 ## 🛠️ Project Setup
